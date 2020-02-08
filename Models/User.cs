@@ -15,7 +15,5 @@ namespace C_Sharp_DojoSurveyModels.Models
         public string Language { get; set; }
         public string Comment { get; set; }
 
-
-
     }
 }
